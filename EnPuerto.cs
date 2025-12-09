@@ -12,12 +12,12 @@ namespace Examen_unidad_4_y_5
 
         public void Acelerar(Barco barco)
         {
-            Console.WriteLine($"El barco {barco.Nombre} no puede acelerar, está amarrado en puerto.");
+            Console.WriteLine($"El barco {barco.Nombre} no puede acelerar, esta amarrado en puerto");
         }
 
         public void Detener(Barco barco)
         {
-            Console.WriteLine("El barco ya está detenido en puerto.");
+            Console.WriteLine("El barco ya esta detenido en puerto");
         }
     }
 }

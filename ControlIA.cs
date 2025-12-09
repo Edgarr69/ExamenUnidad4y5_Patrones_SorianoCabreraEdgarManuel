@@ -9,7 +9,7 @@ namespace Examen_unidad_4_y_5
     public class ControlIA : IControl
     {
         public string Nombre => "IA";
-        public void Controlar() => Console.WriteLine("IA tomando decisiones de navegación.");
+        public void Controlar() => Console.WriteLine("IA tomando decisiones de navegacion");
 
     }
 }

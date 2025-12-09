@@ -12,12 +12,12 @@ namespace Examen_unidad_4_y_5
 
         public void Acelerar(Barco barco)
         {
-            Console.WriteLine($"⚠ Emergencia: {barco.Nombre} solo puede maniobrar, aceleración limitada.");
+            Console.WriteLine($"Emergencia: {barco.Nombre} solo puede maniobrar, aceleración limitada");
         }
 
         public void Detener(Barco barco)
         {
-            Console.WriteLine($"⚠ {barco.Nombre} no puede detenerse completamente por emergencia.");
+            Console.WriteLine($"{barco.Nombre} no puede detenerse completamente por emergencia");
         }
     }
 }

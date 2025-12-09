@@ -11,10 +11,10 @@ namespace Examen_unidad_4_y_5
         public int Id { get; set; }
         public string Nombre { get; set; }
 
-        // Bridge
+
         public IControl Control { get; set; }
 
-        // State
+
         public IEstado Estado { get; set; }
 
         public void EjecutarAceleracion() => Estado.Acelerar(this);

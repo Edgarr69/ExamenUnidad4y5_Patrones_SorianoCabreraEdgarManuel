@@ -9,6 +9,6 @@ namespace Examen_unidad_4_y_5
     public class ControlManual : IControl
     {
         public string Nombre => "Manual";
-        public void Controlar() => Console.WriteLine("El operador está controlando manualmente.");
+        public void Controlar() => Console.WriteLine("El operador esta controlando manualmente");
     }
 }

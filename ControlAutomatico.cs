@@ -8,7 +8,7 @@ namespace Examen_unidad_4_y_5
 {
     public class ControlAutomatico : IControl
     {
-        public string Nombre => "Automático";
-        public void Controlar() => Console.WriteLine("Sistema automático navegando.");
+        public string Nombre => "Automatico";
+        public void Controlar() => Console.WriteLine("Sistema automatico navegando");
     }
 }
