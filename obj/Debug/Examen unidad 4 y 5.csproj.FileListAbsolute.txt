@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\bin\Debug\Examen unidad 4 y 5.exe.config
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\bin\Debug\Examen unidad 4 y 5.exe
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\bin\Debug\Examen unidad 4 y 5.pdb
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\obj\Debug\Examen unidad 4 y 5.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\obj\Debug\Examen unidad 4 y 5.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\obj\Debug\Examen unidad 4 y 5.exe
+C:\Users\edgar\source\repos\Patrones de diseño\Examen unidad 4 y 5\obj\Debug\Examen unidad 4 y 5.pdb
